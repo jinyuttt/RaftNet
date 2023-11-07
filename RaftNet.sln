@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaftNet", "RaftNet\RaftNet.csproj", "{40E7AF12-1858-4C11-AA8C-7910446F0C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOdeTest", "NOdeTest\NOdeTest.csproj", "{B390DD63-F1CA-43BB-99CD-EE00472A599B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40E7AF12-1858-4C11-AA8C-7910446F0C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E7AF12-1858-4C11-AA8C-7910446F0C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E7AF12-1858-4C11-AA8C-7910446F0C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E7AF12-1858-4C11-AA8C-7910446F0C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B390DD63-F1CA-43BB-99CD-EE00472A599B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B390DD63-F1CA-43BB-99CD-EE00472A599B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B390DD63-F1CA-43BB-99CD-EE00472A599B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B390DD63-F1CA-43BB-99CD-EE00472A599B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF8D8A2-7163-4291-8906-2D933AEC43ED}
+	EndGlobalSection
+EndGlobal
